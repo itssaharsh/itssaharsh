@@ -194,10 +194,6 @@ me.say_hi()
 
   <br/><br/>
 
-  <a href="https://github.com/itssaharsh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssaharsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  </a>
-
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssaharsh&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF&radius=10" width="98%" alt="Activity Graph" />
