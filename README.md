@@ -108,27 +108,27 @@ me.say_hi()
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="45" height="45" alt="Python" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)" width="45" height="45" alt="Python" />
         <br/><b>Python</b>
         <br/><sub>Scripting & Backend</sub>
       </td>
       <td align="center" width="140">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" width="45" height="45" alt="Java" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)" width="45" height="45" alt="Java" />
         <br/><b>Java</b>
         <br/><sub>OOP & Systems</sub>
       </td>
       <td align="center" width="140">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg)" width="45" height="45" alt="Go" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)" width="45" height="45" alt="Go" />
         <br/><b>Go</b>
         <br/><sub>Cloud Native</sub>
       </td>
       <td align="center" width="140">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" width="45" height="45" alt="Docker" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)" width="45" height="45" alt="Docker" />
         <br/><b>Docker</b>
         <br/><sub>Containerization</sub>
       </td>
       <td align="center" width="140">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)" width="45" height="45" alt="K8s" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg)" width="45" height="45" alt="K8s" />
         <br/><b>Kubernetes</b>
         <br/><sub>Orchestration</sub>
       </td>
