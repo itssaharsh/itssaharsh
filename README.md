@@ -180,13 +180,7 @@ me.say_hi()
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=📊+Performance+Metrics+%26+Statistics" alt="Stats Header" />
-
   <br/><br/>
-
-  <a href="https://github.com/itssaharsh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itssaharsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
   &nbsp;&nbsp;
   <a href="https://github.com/itssaharsh">
     <img height="180em" src="https://streak-stats.demolab.com/?user=itssaharsh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=00D9FF&dates=888888" alt="Streak Stats" />
