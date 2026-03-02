@@ -34,7 +34,6 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Saharsh Tibrewala"
         self.role = "First-year CSE (AI) Student"
-        self.university = "VIT Pune"
         self.languages = ["Python", "Java", "C", "Go", "SQL"]
         self.focus = [
             "Systems & Developer Tools",
@@ -135,35 +134,6 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">&nbsp; Open Source & Projects
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Active+contributor+to+OpenTelemetry%2C+pandas%2C+and+GitLab;Building+CLI+tools+and+SQL-backed+apps;Hackathon+Enthusiast" alt="OSS Typing" />
-
-  <br/><br/>
-
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌐-Open_Telemetry-00ADD8?style=for-the-badge" />
-        <br/><sub>Observability</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🛠️-CLI_Tools-326CE5?style=for-the-badge" />
-        <br/><sub>Terminal Utilities</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🤖-AI_Helpers-FF6F00?style=for-the-badge" />
-        <br/><sub>Hackathon MVPs</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🐼-Data_Science-D24939?style=for-the-badge" />
-        <br/><sub>Pandas Contributions</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
 
 <br/>
 
