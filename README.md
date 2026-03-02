@@ -127,21 +127,6 @@ me.say_hi()
     </tr>
   </table>
 
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">&nbsp; Open Source & Projects
-
-<br/>
-
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32">&nbsp; GitHub Analytics
-
-<div align="center">
-
   <br/><br/>
   &nbsp;&nbsp;
   <a href="https://github.com/itssaharsh">
