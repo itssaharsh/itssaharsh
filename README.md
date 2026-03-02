@@ -1,11 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saharsh%20Tibrewala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20%7C%20Software%20Engineering%20Student%20%7C%20Open-Source%20Contributor%20%7C%20Backend%20Enthusiast&descAlignY=52&descSize=18" width="100%" />
-
 <div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%90%B9+First-Year+CSE+(AI)+Student+%40+VIT+Pune;%F0%9F%9A%80+Open-Source+Contributor;%F0%9F%94%A7+Python+%7C+Java+%7C+Go+%7C+SQL;%F0%9F%A4%96+Building+Systems+%26+Developer+Tools" alt="Typing SVG" />
-  </a>
-
   <br/><br/>
 
   <a href="https://github.com/itssaharsh">
