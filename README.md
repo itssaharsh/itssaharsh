@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/itssaharsh">
     <img
-      src="https://raw.githubusercontent.com/itssaharsh/itssaharsh/output/activity-graph.svg"
+      src="./assets/activity-graph.svg"
       width="98%"
       alt="Saharsh's GitHub Activity Graph"
     />
@@ -9,7 +9,6 @@
 </div>
 
 <br/>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Connect
 
 <div align="center">
