@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/itssaharsh">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=itssaharsh&custom_title=%F0%9F%93%88%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF&radius=10"
+      src="https://raw.githubusercontent.com/itssaharsh/itssaharsh/output/activity-graph.svg"
       width="98%"
-      alt="Contribution Graph"
+      alt="Saharsh's GitHub Activity Graph"
     />
   </a>
 </div>
