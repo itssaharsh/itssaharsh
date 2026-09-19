@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssaharsh&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF&radius=10" width="98%" alt="Activity Graph" />
+  <img
+    src="https://raw.githubusercontent.com/itssaharsh/itssaharsh/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 <br/>
@@ -18,5 +22,4 @@
   <a href="https://leetcode.com/u/itssaharsh">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
   </a>
-
 </div>
