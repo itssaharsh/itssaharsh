@@ -9,7 +9,7 @@
 </div>
 
 <br/>
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Connect
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/saharsh-tibrewala">
